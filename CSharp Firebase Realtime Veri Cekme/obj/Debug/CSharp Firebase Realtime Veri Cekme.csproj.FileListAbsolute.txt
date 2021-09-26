@@ -1,0 +1,25 @@
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\CSharp Firebase Realtime Veri Cekme.exe.config
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\CSharp Firebase Realtime Veri Cekme.exe
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\CSharp Firebase Realtime Veri Cekme.pdb
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\FireSharp.dll
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\Newtonsoft.Json.dll
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\System.Net.Http.Extensions.dll
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\System.Net.Http.Primitives.dll
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\Newtonsoft.Json.xml
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\System.Net.Http.Extensions.xml
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\bin\Debug\System.Net.Http.Primitives.xml
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp Firebase Realtime Veri Cekme.csproj.App.config
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp Firebase Realtime Veri Cekme.csproj.AssemblyReference.cache
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp_Firebase_Realtime_Veri_Cekme.Form1.resources
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp_Firebase_Realtime_Veri_Cekme.Properties.Resources.resources
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp Firebase Realtime Veri Cekme.csproj.GenerateResource.cache
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp Firebase Realtime Veri Cekme.csproj.CoreCompileInputs.cache
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp Firebase Realtime Veri Cekme.csproj.CopyComplete
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp Firebase Realtime Veri Cekme.exe
+D:\Users\elect\Documents\projects\c#\CSharp Firebase Realtime Database\CSharp Firebase Realtime Veri Cekme\CSharp Firebase Realtime Veri Cekme\obj\Debug\CSharp Firebase Realtime Veri Cekme.pdb
